@@ -163,12 +163,14 @@ ul
 
 .sites {
     text-decoration: none;
+	padding: 0.1rem;
     color: #333332;
 }
 
 .sites:hover {
-    text-decoration: underline;
-    color: #333332;
+    border-bottom: 1px solid #333332;
+	padding: 0.1rem;
+    
 }
 
 #sobremim{
